@@ -1,4 +1,4 @@
-Firmware designed for pretty much any ESP32 board, it captures and parses environmental radio signals while staying completely undetectable from the environment.
+Firmware designed for pretty much any ESP32 board compatible with the Arduino SDK, it captures and parses environmental radio signals while staying completely undetectable from the environment.
 
 It can parse protocols like **Apple Continuity** and **Microsoft CDP**, while operating in a deep sleep state cycle.
 
